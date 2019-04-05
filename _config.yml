@@ -8,7 +8,7 @@ language: 'en-uk'
 
 # Website info
 name: 'Fred On It'
-description: "Personal blog of Fredrick, his personal ideas and projects"
+description: "Personal blog of Fredrick, personal ideas and projects"
 
 short_url: 'fredricksw.github.io/'
 google_analytics: UA-69281367-1
