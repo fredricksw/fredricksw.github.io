@@ -1,10 +1,10 @@
 casper:
-  username: casper
-  name: Casper McFadden
-  location: Maine, USA
-  url_full: http://jekyller.github.io/jasper/
-  url: jekyller.github.io/jasper
-  bio: A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and a friendly one, Casper.
+  username: fredrick
+  name: Fredrick Sonal
+  location: Doha, Qatar
+  url_full: http://fredricksw.github.io/
+  url: fredricksw.github.io/
+  bio: A geek and car enthusiast. With a passion for Human Resources.
   assets: assets/images/casper.png
 lewis:
   username: lewis
