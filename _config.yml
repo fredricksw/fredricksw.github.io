@@ -7,14 +7,14 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Fred On It'
+description: "Personal blog of Fredrick, his personal ideas and projects"
 
-short_url: 'jekyller.github.io/jasper/'
+short_url: 'fredricksw.github.io/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -45,8 +45,8 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyller
-repo: jasper
+username: fredricksw
+repo: fredricksw
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
